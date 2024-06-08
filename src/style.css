@@ -1,0 +1,83 @@
+body {
+  background-color: #FFE382;
+  color: #321313;
+}
+
+.navbar,
+.footer,
+.form,
+.button,
+.carousel,
+.carousel-caption {
+  background-color: transparent;
+  color: white;
+  text-shadow:
+  -1px -1px 0 #000,  
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
+}
+
+.bg-body,
+.bg-light {
+  background-color: #121212 !important;
+}
+
+.text-dark {
+  color: #321313 !important;
+}
+
+.form-control {
+  background-color: #FFF78A;
+  color: #321313;
+  border: 1px solid #444;
+}
+
+.form-control:focus {
+  background-color: #f2ead3;
+  color: #321313;
+  border-color: #555;
+  box-shadow: none;
+}
+
+.btn-primary {
+  background-color: #ffc47e;
+  color: #321313;
+  border-color: #333;
+}
+
+.btn-primary:hover {
+  background-color: #ffc47e;
+  border-color: #444;
+}
+
+.margin-top-custom {
+  margin-top: 115px;
+}
+
+.navbar-custom {
+  background-color: #FFC47E;
+  color: #fff;
+  padding: 5px 0;
+}
+
+.navbar-brand {
+  margin: 0;
+  padding: 0;
+  font-size: 2rem;
+}
+
+.bd-footer-custom {
+  background-color: #ffc47e;
+  padding: 1px 1;
+}
+
+.container-foot {
+  padding: 1px;
+}
+
+.text-body-secondary-custom {
+  color: #321313;
+  margin: 0;
+  font-size: 2rem;
+}

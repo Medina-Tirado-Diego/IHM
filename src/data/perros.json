@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Golden Retriver",
+        "slug": "perro-1",
+        "description": "El golden retriever es una raza de perro muy popular, conocida por su carácter amigable y su apariencia atractiva",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQymJQQtLOL5I7deClYWZfp7txWwo1zxoLnQxaDsQ26fw&s"
+    },
+    {
+        "name": "Husky",
+        "slug": "perro-2",
+        "description": "El husky siberiano es una raza de perro conocida por su belleza, resistencia y temperamento amigable",
+        "picture": "https://www.ngenespanol.com/wp-content/uploads/2023/12/descubren-que-los-humanos-influimos-en-el-color-de-ojos-de-los-perros-1280x720.jpg"
+    },
+    {
+        "name": "Carlino",
+        "slug": "perro-3",
+        "description": "El carlino, también conocido como pug, es una raza de perro pequeña y compacta conocida por su apariencia distintiva y su carácter encantador.",
+        "picture": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/15665/production/_107435678_perro1.jpg"
+    },
+    {
+        "name": "Bichón maltrés",
+        "slug": "perro-4",
+        "description": "El Bichón maltés es una raza de perro pequeña conocida por su hermoso pelaje blanco y su naturaleza vivaz y afectuosa.",
+        "picture": "https://estaticos-cdn.prensaiberica.es/clip/823f515c-8143-4044-8f13-85ea1ef58f3a_16-9-discover-aspect-ratio_default_0.jpg"
+    }
+]
